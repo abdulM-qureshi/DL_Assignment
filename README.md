@@ -200,4 +200,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow torch transf
 
 ---
 
-*Bachelor of Science in Artificial Intelligence — FAST NUCES*
+*Bachelor of Science in Artificial Intelligence — DUET KARACHI*
