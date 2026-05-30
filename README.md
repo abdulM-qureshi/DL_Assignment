@@ -1,4 +1,4 @@
-# 🏥 Clinical Early Warning System — Patient Survival Prediction
+# 🏥 Clinical Early Warning System Patient Survival Prediction
 
 > Predicting in-hospital patient mortality using ICU data through three generations of deep learning models.
 
@@ -200,4 +200,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow torch transf
 
 ---
 
-*Bachelor of Science in Artificial Intelligence — DUET KARACHI*
+*Bachelor of Science in Artificial Intelligence | DUET KARACHI*
